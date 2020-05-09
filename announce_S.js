@@ -1,5 +1,5 @@
 // 헬프데스크 저장, 조회 및 공간 검색을 위한 라우팅 함수 정의
-//12
+//123
 var GET_ONE = function(req, res) {
 	console.log('Announce_S 모듈 안에 있는 Get_One 호출됨.'); 
 
